@@ -1,6 +1,6 @@
 {
 	"name": "onedrive_music_library",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Allows to play music stored on the Onedrive cloud storage service",
 	"main": "index.js",
 	"scripts": {
