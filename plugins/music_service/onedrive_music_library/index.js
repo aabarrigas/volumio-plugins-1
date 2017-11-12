@@ -158,7 +158,7 @@ onedriveMusicLibrary.prototype.handleBrowseUri = function (curUri) {
                         audioItems.push({
                             "service": "webradio",
                             "type": "song",
-                            "title": item.name,
+                            "title": item.audio.title || item.name,
                             "icon": "fa fa-music",
                             "uri": curUri + "/" + item.name,
                             "uri": item["@microsoft.graph.downloadUrl"],
