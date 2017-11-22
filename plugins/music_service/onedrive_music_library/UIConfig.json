@@ -3,7 +3,6 @@
       "label": "Onedrive Configuration"
     },
     "sections": [
-      
       {
         "id":"section_getAuthenticationKey",
         "type": "section",
