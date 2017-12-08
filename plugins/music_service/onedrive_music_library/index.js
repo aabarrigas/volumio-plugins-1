@@ -192,8 +192,7 @@ onedriveMusicLibrary.prototype.handleBrowseUri = function (curUri) {
                                 "title": "Audio Files",
                                 "icon": "fa fa-file-audio-o",
                                 "availableListViews": [
-                                    "list",
-                                    "grid"
+                                    "list"
                                 ],
                                 "items": audioItems
                             },
@@ -201,8 +200,7 @@ onedriveMusicLibrary.prototype.handleBrowseUri = function (curUri) {
                                 "title": "Other Files",
                                 "icon": "fa fa-files-o",
                                 "availableListViews": [
-                                    "list",
-                                    "grid"
+                                    "list"
                                 ],
                                 "items": fileItems
                             }
