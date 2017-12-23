@@ -232,6 +232,42 @@
 						}
 					],
 					"updated": "12-11-2017"
+				},
+				{
+					"prettyName": "Onedrive Music Library",
+					"icon": "fa-lightbulb-o",
+					"name": "onedrive_music_library",
+					"version": "1.0.1",
+					"url": "http://volumio.github.io/volumio-plugins/plugins/volumio/armhf/music_service/onedrive_music_library/onedrive_music_library.zip",
+					"license": "ISC",
+					"description": "Allows to play music stored on the Onedrive cloud storage service",
+					"details": "Allows to browse and play music files on Microsoft Onedrive.",
+					"author": "Elmar Jansen",
+					"screenshots": [
+						{
+							"image": "",
+							"thumb": ""
+						}
+					],
+					"updated": "23-12-2017"
+				},
+				{
+					"prettyName": "Onedrive Music Library",
+					"icon": "fa-lightbulb-o",
+					"name": "onedrive_music_library",
+					"version": "1.0.1",
+					"url": "http://volumio.github.io/volumio-plugins/plugins/volumio/armhf/music_service/onedrive_music_library/onedrive_music_library.zip",
+					"license": "ISC",
+					"description": "Allows to play music stored on the Onedrive cloud storage service",
+					"details": "Allows you to browse and play music files on Microsoft Onedrive.",
+					"author": "Elmar Jansen",
+					"screenshots": [
+						{
+							"image": "",
+							"thumb": ""
+						}
+					],
+					"updated": "23-12-2017"
 				}
 			]
 		},
