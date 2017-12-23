@@ -162,7 +162,7 @@ onedriveMusicLibrary.prototype.handleBrowseUri = function (curUri) {
                             "type": "song",
                             "title": item.audio.title ? item.audio.title + " [" + item.name +  "]" : item.name,
                             "icon": "fa fa-music",
-                            "uri": curUri + "/" + item.name,
+                            "uri": item["@microsoft.graph.downloadUrl"],
                             "artist": item.audio.artist,
                             "album": item.audio.album
                         });
